@@ -1,0 +1,5 @@
+mails/*.txt
+uploads/orig/*
+uploads/thumb/*
+!uploads/orig/.gitkeep
+!uploads/thumb/.gitkeep
